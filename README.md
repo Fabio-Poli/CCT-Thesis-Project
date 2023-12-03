@@ -1,7 +1,5 @@
-# CCT-Thesis-Project
+# Predicting European Stock Market Trends Using Machine Learning
 Capstone Project
-
-**Predicting European Stock Market Trends Using Machine Learning**
 
 **Project Overview**
 This repository houses the research project titled "Predicting European Stock Market Trends through Economic Indicators: A Machine Learning Approach". The goal of this project is to explore and analyze the potential of machine learning (ML) models in forecasting stock market trends in Europe, using a range of economic indicators.
@@ -25,7 +23,8 @@ Data Collection and Preprocessing: Gathering and refining financial and economic
 Model Development: Constructing and training machine learning models.
 Analysis and Interpretation: Analyzing model outputs and interpreting results in the context of the European stock market.
 Documentation and Reporting: Compiling findings, discussions, and conclusions.
-Ethical Considerations
+
+**Ethical Considerations**
 Ethical and responsible data handling is a cornerstone of this project. All data sources are acknowledged, personal data is anonymized, and privacy regulations are strictly followed.
 
 **Contribution**
