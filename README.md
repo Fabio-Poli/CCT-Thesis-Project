@@ -2,10 +2,10 @@
 Capstone Project
 
 **Project Overview**
-This repository houses the research project titled "Predicting European Stock Market Trends through Economic Indicators: A Machine Learning Approach". The goal of this project is to explore and analyze the potential of machine learning (ML) models in forecasting stock market trends in Europe, using a range of economic indicators.
+This repository houses the research project titled "Predicting European Index Market Trends through Economic Indicators: A Machine Learning Approach". The goal of this project is to explore and analyze the potential of machine learning (ML) models in forecasting stock market trends in Europe, using a range of economic indicators.
 
 **Research Objective**
-The primary objective is to evaluate the effectiveness of machine learning models in interpreting and predicting European stock market trends. This involves developing and comparing ML models against traditional linear models to understand the influence of economic indicators like interest rates, inflation and bonds yield data on stock market dynamics.
+The primary objective is to evaluate the effectiveness of machine learning models in interpreting and predicting European stock market trends. This involves developing and comparing ML models against traditional linear models to understand the influence of economic indicators like interest rates, inflation, and bond yield data on stock market dynamics.
 
 **Repository Structure**
 Data Collection: Scripts and datasets used for collecting financial and economic data.
