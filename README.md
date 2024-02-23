@@ -1,4 +1,4 @@
-# Predicting European Stock Market Trends Using Machine Learning
+# Predicting European Index Market Trends through Economic Indicators: A Machine Learning Approach
 Capstone Project
 
 **Project Overview**
